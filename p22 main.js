@@ -56,12 +56,7 @@ function draw() {
  
 }
 
-function keyPressed() {
- if (keyCode === DOWN_ARROW) {
 
-    
-  }
-}
 
 
 
